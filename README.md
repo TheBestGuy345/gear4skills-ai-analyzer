@@ -23,3 +23,5 @@ git clone https://github.com/TheBestGuy345/gear4skills-ai-analyzer.git
 cd gear4skills-ai-analyzer
 pip install -r requirements.txt
 python main.py
+
+Note: This tool is currently in alpha stage — accuracy is limited, but the mission is open: to crowd-develop AI for sports access.
